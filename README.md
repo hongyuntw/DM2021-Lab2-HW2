@@ -15,7 +15,7 @@ Kaggle name: 四個不同意
 
 Kaggle private scoreboard snapshot:
 
-Snapshot
+![snapshot](https://user-images.githubusercontent.com/39511654/148632699-0b2ff663-e1af-4c3c-ae67-b2c9e3bb3772.png)
 
 
 ## Kaggle Report
